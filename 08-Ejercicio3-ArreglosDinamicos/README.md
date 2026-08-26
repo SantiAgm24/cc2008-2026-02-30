@@ -1,3 +1,6 @@
+**Santiago Aguilón Muñoz**
+**26199**
+
 Creación y prueba de la nueva entrega de trabajos.
 
 Ejercicio 3: Prueba de arraylists.
@@ -41,3 +44,7 @@ El menú principal contiene las siguientes opciones:
 9. Mostrar la cantidad de órdenes.
 
 10. Salir del programa.
+
+**COMO EJECUTAR**
+javac -d bin src/*.java
+java -cp bin PrincipalMain
