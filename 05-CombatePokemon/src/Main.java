@@ -6,7 +6,7 @@ public class Main {
 
         Random random = new Random();
 
-        // Habilidades de cada pokémon
+        // Habilidades de cada pokémon con su respectivo nombre y daño que inflige
 
         HabilidadEspecial habilidad1 =
             new HabilidadEspecial("Llama Final", 30);
